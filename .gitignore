@@ -380,7 +380,6 @@ fabric.properties
 
 
 ##### VisualStudioCode.gitignore #####
-.vscode/*
 # !.vscode/settings.json
 # !.vscode/tasks.json
 # !.vscode/launch.json
@@ -431,3 +430,5 @@ benchmark/gaia/results.jsonl
 
 # Secret files for docker
 .container/.env
+config.bat
+node_modules
